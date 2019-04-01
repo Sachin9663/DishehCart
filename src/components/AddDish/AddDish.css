@@ -1,0 +1,21 @@
+
+.container{
+  width: 50%;
+  margin: 0 auto;
+}
+input[type=text]{
+  width: 80%;
+  height: 20px;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius:3px ;
+  font-size:15px ;
+  outline: none;
+}
+
+button{
+  width: 160px;
+  height: 40px;
+  padding: 5px;
+  font-size: 20px;
+}
