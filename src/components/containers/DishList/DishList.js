@@ -31,7 +31,6 @@ handleAddDish=(event,dish)=>{
          return <Dish dish={dish} key={index} />;})
         }
         </div>
-        <h3>Add more dishes here</h3>
         <AddDish handleOnChange={this.handleOnChange} handleAddDish={this.handleAddDish}/>
       </div>
 

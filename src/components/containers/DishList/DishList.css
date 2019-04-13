@@ -1,9 +1,11 @@
 .dish-list{
+    display: flex;
     width: 90%;
     margin: 0 auto;
     padding: 20px;
 }
 .dishes{
+    width: 80%;
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
